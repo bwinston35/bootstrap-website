@@ -1,12 +1,12 @@
 ---
-title: Example Page
-nav: Example
+title: Past Projects
+nav: Past Projects
 nav_order: 1
 ---
 
-Write pages in Markdown.
+Prior to my work in the library, I led and collaborated on a number of digital and public humanities projects.
 
-## Heading Two 
+## Dartmouth Digital History Initiative 
 
 Any text with no empty lines between will become a paragraph.
 Leave an blank line between headings and paragraphs.
